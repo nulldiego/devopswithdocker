@@ -70,3 +70,20 @@ The push refers to repository [docker.io/diegosl/docker-hy.github.io]
 
 ## 3.6
 
+[Dockerfile](/part3/3.6/Dockerfile)
+
+- Size before optimization: `327MB`
+- Size after optimization: `120MB`
+
+## 3.7
+
+[Old Dockerfile](/part3/3.7/Dockerfile.old)
+
+[Optimized Dockerfile](/part3/3.7/Dockerfile)
+
+- Size before optimization: `599MB`
+- Size after optimization: `121MB`
+
+## 3.8
+
+[Diagram](/part3/3.8/kubernetes.png)
